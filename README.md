@@ -1,2 +1,2 @@
-# LoginInterface
-Java Swing
+# SimpleLoginInterface
+Basic Login Interface using Java.
